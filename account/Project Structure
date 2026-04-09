@@ -1,0 +1,30 @@
+# Project Structure --------------------------------------
+
+otp_2fa_project/
+│
+├── config/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── celery.py
+│
+├── accounts/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── managers.py
+│   ├── admin.py
+│
+├── authentication/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── serializers.py
+│   ├── views.py
+│   ├── tasks.py
+│   ├── redis_otp.py
+│   ├── sms_service.py
+│   ├── utils.py
+│   ├── urls.py
+│   ├── admin.py
+│
+├── manage.py
+└── requirements.txt

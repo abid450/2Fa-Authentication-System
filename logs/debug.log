@@ -1,0 +1,1142 @@
+INFO 2026-02-16 17:32:24,743 autoreload 7420 17032 Watching for file changes with StatReloader
+INFO 2026-02-16 17:33:52,342 log 7420 16828 "GET /admin HTTP/1.1" 301 0
+INFO 2026-02-16 17:33:52,441 log 7420 16828 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-02-16 17:33:52,503 log 7420 16828 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4081
+INFO 2026-02-16 17:33:52,674 log 7420 16828 "GET /static/admin/css/base.css HTTP/1.1" 200 23100
+INFO 2026-02-16 17:33:52,716 log 7420 18044 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+INFO 2026-02-16 17:33:52,717 log 7420 7312 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2026-02-16 17:33:52,720 log 7420 16268 "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2026-02-16 17:33:52,724 log 7420 1756 "GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+INFO 2026-02-16 17:33:52,726 log 7420 5136 "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2026-02-16 17:33:52,732 log 7420 1756 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+WARNING 2026-02-16 17:33:52,796 log 7420 1756 Not Found: /favicon.ico
+WARNING 2026-02-16 17:33:52,797 log 7420 1756 "GET /favicon.ico HTTP/1.1" 404 2353
+INFO 2026-02-16 17:33:59,229 log 7420 1756 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-02-16 17:33:59,457 log 7420 1756 "GET /admin/ HTTP/1.1" 200 15502
+INFO 2026-02-16 17:33:59,495 log 7420 1756 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2026-02-16 17:33:59,506 log 7420 1756 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 593
+INFO 2026-02-16 17:33:59,507 log 7420 5136 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 978
+INFO 2026-02-16 17:34:04,416 log 7420 5136 "GET /admin/account/user/ HTTP/1.1" 200 16283
+INFO 2026-02-16 17:34:04,452 log 7420 5136 "GET /static/admin/css/changelists.css HTTP/1.1" 200 7498
+INFO 2026-02-16 17:34:04,463 log 7420 16268 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2026-02-16 17:34:04,463 log 7420 7312 "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2026-02-16 17:34:04,464 log 7420 18044 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2026-02-16 17:34:04,464 log 7420 16828 "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2026-02-16 17:34:04,476 log 7420 1756 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2026-02-16 17:34:04,478 log 7420 16268 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2026-02-16 17:34:04,479 log 7420 7312 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2026-02-16 17:34:04,491 log 7420 18044 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2026-02-16 17:34:04,505 log 7420 18044 "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2026-02-16 17:34:04,545 log 7420 5136 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:34:04,596 log 7420 5136 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 593
+INFO 2026-02-16 17:34:09,081 log 7420 5136 "GET /admin/account/user/d522253c-09f3-403e-af24-f95ac4636865/change/ HTTP/1.1" 200 40799
+INFO 2026-02-16 17:34:09,125 log 7420 5136 "GET /static/admin/css/forms.css HTTP/1.1" 200 8817
+INFO 2026-02-16 17:34:09,126 log 7420 1756 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2026-02-16 17:34:09,126 log 7420 7312 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19698
+INFO 2026-02-16 17:34:09,127 log 7420 18044 "GET /static/admin/js/calendar.js HTTP/1.1" 200 9159
+INFO 2026-02-16 17:34:09,133 log 7420 5136 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11811
+INFO 2026-02-16 17:34:09,139 log 7420 5136 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2026-02-16 17:34:09,187 log 7420 16268 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:34:09,262 log 7420 5136 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 805
+INFO 2026-02-16 17:34:09,263 log 7420 16268 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1112
+INFO 2026-02-16 17:34:28,912 log 7420 5136 "GET /admin/account/user/ HTTP/1.1" 200 16283
+INFO 2026-02-16 17:36:24,088 autoreload 7420 17032 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-02-16 17:36:27,030 autoreload 10252 3272 Watching for file changes with StatReloader
+INFO 2026-02-16 17:36:27,649 log 10252 10116 "GET /admin/account/user/ HTTP/1.1" 200 16277
+INFO 2026-02-16 17:36:27,730 log 10252 10116 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:36:32,936 autoreload 10252 3272 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-02-16 17:36:35,058 autoreload 17200 6568 Watching for file changes with StatReloader
+INFO 2026-02-16 17:36:39,860 log 17200 9464 "GET /admin/account/user/ HTTP/1.1" 200 16283
+INFO 2026-02-16 17:36:40,061 log 17200 9464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:36:42,043 log 17200 9464 "GET /admin/account/user/d522253c-09f3-403e-af24-f95ac4636865/change/ HTTP/1.1" 200 40799
+INFO 2026-02-16 17:36:42,132 log 17200 9464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:36:50,988 log 17200 9464 "POST /admin/account/user/d522253c-09f3-403e-af24-f95ac4636865/change/ HTTP/1.1" 302 0
+INFO 2026-02-16 17:36:51,180 log 17200 9464 "GET /admin/account/user/ HTTP/1.1" 200 16532
+INFO 2026-02-16 17:36:51,290 log 17200 9464 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:36:51,381 log 17200 9464 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 558
+INFO 2026-02-16 17:37:32,847 autoreload 17200 6568 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-02-16 17:37:35,234 autoreload 1600 9644 Watching for file changes with StatReloader
+INFO 2026-02-16 17:37:36,379 log 1600 7420 "GET /admin/account/user/ HTTP/1.1" 200 16281
+INFO 2026-02-16 17:37:36,480 log 1600 7420 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 17:37:48,508 log 1600 7420 "GET /admin/account/user/ HTTP/1.1" 200 16281
+INFO 2026-02-16 17:37:48,711 log 1600 7420 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:02:34,626 log 1600 4856 "GET /admin/account/user/ HTTP/1.1" 200 16281
+INFO 2026-02-16 19:02:34,721 log 1600 4856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:34:55,080 autoreload 19408 10388 Watching for file changes with StatReloader
+INFO 2026-02-16 19:35:49,197 autoreload 19408 10388 E:\chatting_app\chat\chat\settings.py changed, reloading.
+INFO 2026-02-16 19:35:51,584 autoreload 17456 15948 Watching for file changes with StatReloader
+INFO 2026-02-16 19:36:10,078 autoreload 17456 15948 E:\chatting_app\chat\chat\settings.py changed, reloading.
+INFO 2026-02-16 19:36:12,482 autoreload 12908 14244 Watching for file changes with StatReloader
+INFO 2026-02-16 19:38:05,285 autoreload 12908 14244 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-02-16 19:38:07,857 autoreload 15144 15536 Watching for file changes with StatReloader
+INFO 2026-02-16 19:38:10,479 log 15144 18744 "GET /admin/account/user/ HTTP/1.1" 200 18658
+INFO 2026-02-16 19:38:10,564 log 15144 18744 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:38:14,088 log 15144 18744 "GET /admin/account/user/ HTTP/1.1" 200 18658
+INFO 2026-02-16 19:38:14,280 log 15144 18744 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:38:26,458 log 15144 18744 "GET /admin/django_celery_results/taskresult/ HTTP/1.1" 200 19800
+INFO 2026-02-16 19:38:26,563 log 15144 18744 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:38:26,577 log 15144 18076 "GET /static/admin/img/search.svg HTTP/1.1" 200 607
+INFO 2026-02-16 19:38:26,593 log 15144 18076 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 928
+INFO 2026-02-16 19:38:29,255 log 15144 18076 "GET /admin/django_celery_results/taskresult/add/ HTTP/1.1" 200 29197
+INFO 2026-02-16 19:38:29,347 log 15144 18076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:38:39,573 log 15144 18076 "GET /admin/django_celery_beat/crontabschedule/ HTTP/1.1" 200 17383
+INFO 2026-02-16 19:38:39,664 log 15144 18076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:38:42,533 log 15144 18076 "GET /admin/django_celery_beat/crontabschedule/add/ HTTP/1.1" 200 61313
+INFO 2026-02-16 19:38:42,572 log 15144 18744 "GET /static/admin/js/inlines.js HTTP/1.1" 200 15628
+INFO 2026-02-16 19:38:42,581 log 15144 18744 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 806
+INFO 2026-02-16 19:38:42,733 log 15144 18076 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:38:48,056 log 15144 18076 "GET /admin/django_celery_beat/crontabschedule/ HTTP/1.1" 200 17383
+INFO 2026-02-16 19:38:55,807 autoreload 15144 15536 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-02-16 19:38:57,896 autoreload 12464 18676 Watching for file changes with StatReloader
+INFO 2026-02-16 19:39:08,647 log 12464 17364 "GET /admin/django_celery_beat/crontabschedule/ HTTP/1.1" 200 17383
+INFO 2026-02-16 19:39:08,678 log 12464 17364 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:08,681 log 12464 18736 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:08,682 log 12464 8448 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:08,689 log 12464 14028 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:08,693 log 12464 2124 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:08,698 log 12464 2124 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:08,767 log 12464 9588 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:39:09,763 log 12464 9588 "GET /admin/django_celery_results/taskresult/add/ HTTP/1.1" 200 29197
+INFO 2026-02-16 19:39:12,287 log 12464 9588 "GET /admin/django_celery_results/taskresult/add/ HTTP/1.1" 200 29197
+INFO 2026-02-16 19:39:12,373 log 12464 9588 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:39:16,189 log 12464 9588 "GET /admin/ HTTP/1.1" 200 19066
+INFO 2026-02-16 19:39:16,218 log 12464 9588 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:16,232 log 12464 2124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:16,232 log 12464 9588 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,219 log 12464 9588 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17380
+INFO 2026-02-16 19:39:28,252 log 12464 9588 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,264 log 12464 18736 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,268 log 12464 8448 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,268 log 12464 17364 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,271 log 12464 2124 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,272 log 12464 14028 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,273 log 12464 18736 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,274 log 12464 8448 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,278 log 12464 17364 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,291 log 12464 17364 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:28,336 log 12464 9588 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:39:28,364 log 12464 9588 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,225 log 12464 9588 "GET /admin/security/loginhistory/add/ HTTP/1.1" 200 28798
+INFO 2026-02-16 19:39:30,257 log 12464 9588 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,272 log 12464 17364 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,272 log 12464 8448 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,272 log 12464 18736 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,272 log 12464 14028 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,286 log 12464 14028 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,344 log 12464 9588 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:39:30,405 log 12464 14028 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:30,405 log 12464 9588 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-02-16 19:39:38,484 log 12464 14028 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17380
+INFO 2026-02-16 19:40:03,611 log 12464 14028 "GET /admin/security/ HTTP/1.1" 200 7482
+INFO 2026-02-16 19:40:06,275 log 12464 14028 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17380
+WARNING 2026-02-16 19:40:08,653 log 12464 14028 Not Found: /
+WARNING 2026-02-16 19:40:08,654 log 12464 14028 "GET / HTTP/1.1" 404 2302
+INFO 2026-02-16 19:40:10,947 log 12464 14028 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17380
+INFO 2026-02-16 19:48:58,950 log 12464 17348 "GET /admin/account/user/ HTTP/1.1" 200 18658
+INFO 2026-02-16 19:48:59,148 log 12464 17348 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:49:01,040 log 12464 17348 "GET /admin/account/user/add/ HTTP/1.1" 200 44035
+INFO 2026-02-16 19:49:01,133 log 12464 17348 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:49:32,202 log 12464 17348 "GET /admin/account/user/ HTTP/1.1" 200 18658
+INFO 2026-02-16 19:49:34,212 log 12464 17348 "GET /admin/account/user/d522253c-09f3-403e-af24-f95ac4636865/change/ HTTP/1.1" 200 44581
+INFO 2026-02-16 19:49:34,317 log 12464 17348 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:49:54,576 log 12464 17348 "POST /admin/logout/ HTTP/1.1" 200 3479
+INFO 2026-02-16 19:49:56,911 log 12464 17348 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-02-16 19:49:56,963 log 12464 17348 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4081
+INFO 2026-02-16 19:49:56,986 log 12464 17348 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2026-02-16 19:50:04,892 log 12464 17348 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-02-16 19:50:05,083 log 12464 17348 "GET /admin/ HTTP/1.1" 200 19066
+INFO 2026-02-16 19:50:09,904 log 12464 17348 "GET /admin/account/user/ HTTP/1.1" 200 18658
+INFO 2026-02-16 19:50:10,101 log 12464 17348 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-02-16 19:50:11,700 log 12464 17348 "GET /admin/account/user/d522253c-09f3-403e-af24-f95ac4636865/change/ HTTP/1.1" 200 44581
+INFO 2026-02-16 19:50:11,789 log 12464 17348 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-01 19:46:39,941 autoreload 1676 15024 Watching for file changes with StatReloader
+INFO 2026-03-01 19:48:11,758 autoreload 1676 15024 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-01 19:48:13,804 autoreload 8488 8696 Watching for file changes with StatReloader
+INFO 2026-03-01 19:48:30,209 autoreload 8488 8696 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-01 19:48:32,687 autoreload 6400 6056 Watching for file changes with StatReloader
+ERROR 2026-03-01 19:48:47,351 log 6400 14432 Internal Server Error: /register
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "E:\chatting_app\env\Lib\site-packages\django\utils\module_loading.py", line 16, in cached_import
+    return getattr(module, class_name)
+AttributeError: module 'redis.connection' has no attribute 'HiredisParser'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 497, in dispatch
+    self.initial(request, *args, **kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 416, in initial
+    self.check_throttles(request)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 359, in check_throttles
+    if not throttle.allow_request(request, self):
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\throttling.py", line 123, in allow_request
+    self.history = self.cache.get(self.key, [])
+                   ~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\cache.py", line 92, in get
+    value = self._get(key, default, version, client)
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\cache.py", line 29, in _decorator
+    return method(self, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\cache.py", line 99, in _get
+    return self.client.get(key, default=default, version=version, client=client)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\client\default.py", line 293, in get
+    client = self.get_client(write=False)
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\client\default.py", line 128, in get_client
+    self._clients[index] = self.connect(index)
+                           ~~~~~~~~~~~~^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\client\default.py", line 157, in connect
+    return self.connection_factory.connect(self._server[index])
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\pool.py", line 69, in connect
+    params = self.make_connection_params(url)
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\pool.py", line 41, in make_connection_params
+    "parser_class": self.get_parser_cls(),
+                    ~~~~~~~~~~~~~~~~~~~^^
+  File "E:\chatting_app\env\Lib\site-packages\django_redis\pool.py", line 97, in get_parser_cls
+    return import_string(cls)
+  File "E:\chatting_app\env\Lib\site-packages\django\utils\module_loading.py", line 32, in import_string
+    raise ImportError(
+    ...<2 lines>...
+    ) from err
+ImportError: Module "redis.connection" does not define a "HiredisParser" attribute/class
+ERROR 2026-03-01 19:48:47,367 log 6400 14432 "GET /register HTTP/1.1" 500 162719
+WARNING 2026-03-01 19:48:47,587 log 6400 14432 Not Found: /favicon.ico
+WARNING 2026-03-01 19:48:47,589 log 6400 14432 "GET /favicon.ico HTTP/1.1" 404 2521
+INFO 2026-03-01 19:54:03,482 autoreload 6400 6056 E:\chatting_app\chat\chat\settings.py changed, reloading.
+INFO 2026-03-01 19:54:06,574 autoreload 19400 2880 Watching for file changes with StatReloader
+WARNING 2026-03-01 19:54:12,488 log 19400 4664 Method Not Allowed: /register
+WARNING 2026-03-01 19:54:12,490 log 19400 4664 "GET /register HTTP/1.1" 405 13168
+INFO 2026-03-01 19:54:12,646 log 19400 4664 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2026-03-01 19:54:12,651 log 19400 4664 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2026-03-01 19:54:12,655 log 19400 4664 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2026-03-01 19:54:12,659 log 19400 4664 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2026-03-01 19:54:12,667 log 19400 4664 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2026-03-01 19:54:12,667 log 19400 18396 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2026-03-01 19:54:12,672 log 19400 4664 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2026-03-01 19:54:12,673 log 19400 16536 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2026-03-01 19:54:12,676 log 19400 8872 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2026-03-01 19:54:12,678 log 19400 17272 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2026-03-01 19:54:12,681 log 19400 17412 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2026-03-01 19:54:12,690 log 19400 17412 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2026-03-01 19:54:18,218 log 19400 17412 Bad Request: /register
+WARNING 2026-03-01 19:54:18,220 log 19400 17412 "POST /register HTTP/1.1" 400 13750
+WARNING 2026-03-01 19:54:48,939 log 19400 17412 Bad Request: /register
+WARNING 2026-03-01 19:54:48,940 log 19400 17412 "POST /register HTTP/1.1" 400 13757
+WARNING 2026-03-01 20:09:03,294 log 19400 17984 Too Many Requests: /register
+WARNING 2026-03-01 20:09:03,296 log 19400 17984 "POST /register HTTP/1.1" 429 13239
+WARNING 2026-03-01 20:09:20,669 log 19400 17984 Too Many Requests: /register
+WARNING 2026-03-01 20:09:20,671 log 19400 17984 "POST /register HTTP/1.1" 429 13239
+WARNING 2026-03-01 20:09:30,190 log 19400 17984 Too Many Requests: /register
+WARNING 2026-03-01 20:09:30,192 log 19400 17984 "POST /register HTTP/1.1" 429 13239
+INFO 2026-03-01 20:16:45,151 autoreload 19400 2880 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-01 20:16:48,660 autoreload 13728 10268 Watching for file changes with StatReloader
+INFO 2026-03-01 20:17:54,667 autoreload 13728 10268 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-01 20:17:56,836 autoreload 19344 4608 Watching for file changes with StatReloader
+INFO 2026-03-01 20:18:19,418 autoreload 19344 4608 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-01 20:18:21,914 autoreload 7684 7504 Watching for file changes with StatReloader
+WARNING 2026-03-01 20:18:24,426 log 7684 204 Bad Request: /register
+WARNING 2026-03-01 20:18:24,428 log 7684 204 "POST /register HTTP/1.1" 400 13775
+WARNING 2026-03-01 20:18:44,860 log 7684 4036 Bad Request: /register
+WARNING 2026-03-01 20:18:44,861 log 7684 4036 "POST /register HTTP/1.1" 400 13550
+WARNING 2026-03-01 20:19:44,514 log 7684 4036 Bad Request: /register
+WARNING 2026-03-01 20:19:44,516 log 7684 4036 "POST /register HTTP/1.1" 400 13557
+INFO 2026-03-02 11:38:23,174 autoreload 17176 2752 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:38:38,060 log 17176 4168 Method Not Allowed: /register
+WARNING 2026-03-02 11:38:38,061 log 17176 4168 "GET /register HTTP/1.1" 405 13168
+WARNING 2026-03-02 11:38:38,265 log 17176 4168 Not Found: /favicon.ico
+WARNING 2026-03-02 11:38:38,266 log 17176 4168 "GET /favicon.ico HTTP/1.1" 404 2521
+WARNING 2026-03-02 11:38:40,634 log 17176 4168 Bad Request: /register
+WARNING 2026-03-02 11:38:40,637 log 17176 4168 "POST /register HTTP/1.1" 400 13750
+WARNING 2026-03-02 11:39:23,573 log 17176 2716 Bad Request: /register
+WARNING 2026-03-02 11:39:23,574 log 17176 2716 "POST /register HTTP/1.1" 400 13416
+INFO 2026-03-02 11:39:56,277 autoreload 17176 2752 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:39:58,787 autoreload 3844 10328 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:40:00,160 log 3844 14532 Bad Request: /register
+WARNING 2026-03-02 11:40:00,161 log 3844 14532 "POST /register HTTP/1.1" 400 13388
+INFO 2026-03-02 11:41:00,072 autoreload 3844 10328 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:41:02,424 autoreload 1640 10316 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:41:03,654 log 1640 2100 Bad Request: /register
+WARNING 2026-03-02 11:41:03,656 log 1640 2100 "POST /register HTTP/1.1" 400 13388
+WARNING 2026-03-02 11:41:16,572 log 1640 2100 Bad Request: /register
+WARNING 2026-03-02 11:41:16,574 log 1640 2100 "POST /register HTTP/1.1" 400 13388
+INFO 2026-03-02 11:41:27,188 autoreload 1640 10316 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:41:29,428 autoreload 17196 9500 Watching for file changes with StatReloader
+INFO 2026-03-02 11:43:56,372 autoreload 17196 9500 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:43:58,473 autoreload 14340 10988 Watching for file changes with StatReloader
+INFO 2026-03-02 11:44:07,419 autoreload 14340 10988 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:44:09,554 autoreload 17392 14708 Watching for file changes with StatReloader
+INFO 2026-03-02 11:44:14,386 autoreload 17392 14708 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:44:16,478 autoreload 17864 9976 Watching for file changes with StatReloader
+ERROR 2026-03-02 11:44:21,593 log 17864 17680 Internal Server Error: /register
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 75, in post
+    if serializer.is_valid():
+       ~~~~~~~~~~~~~~~~~~~^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\serializers.py", line 223, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\serializers.py", line 442, in run_validation
+    value = self.to_internal_value(data)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\serializers.py", line 501, in to_internal_value
+    validated_value = validate_method(validated_value)
+  File "E:\chatting_app\chat\account\serializers.py", line 64, in validate_password2
+    if attrs ['password'] != attrs['password2']:
+       ~~~~~~^^^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+ERROR 2026-03-02 11:44:21,603 log 17864 17680 "POST /register HTTP/1.1" 500 130563
+INFO 2026-03-02 11:47:33,598 autoreload 17864 9976 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:47:35,836 autoreload 7796 13788 Watching for file changes with StatReloader
+INFO 2026-03-02 11:47:39,581 autoreload 7796 13788 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:47:41,916 autoreload 17232 7032 Watching for file changes with StatReloader
+ERROR 2026-03-02 11:47:56,381 log 17232 13464 Internal Server Error: /register
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 75, in post
+    if serializer.is_valid():
+       ~~~~~~~~~~~~~~~~~~~^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\serializers.py", line 223, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\serializers.py", line 442, in run_validation
+    value = self.to_internal_value(data)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\serializers.py", line 501, in to_internal_value
+    validated_value = validate_method(validated_value)
+  File "E:\chatting_app\chat\account\serializers.py", line 66, in validate_password2
+    if attrs ['password'] != attrs['password2']:
+       ~~~~~~^^^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+ERROR 2026-03-02 11:47:56,388 log 17232 13464 "POST /register HTTP/1.1" 500 131199
+INFO 2026-03-02 11:48:10,969 autoreload 17232 7032 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:48:13,434 autoreload 4000 16632 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:48:14,910 log 4000 8176 Bad Request: /register
+WARNING 2026-03-02 11:48:14,912 log 4000 8176 "POST /register HTTP/1.1" 400 13388
+INFO 2026-03-02 11:49:19,172 autoreload 4000 16632 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:49:21,507 autoreload 3796 13824 Watching for file changes with StatReloader
+INFO 2026-03-02 11:49:24,291 autoreload 3796 13824 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:49:26,771 autoreload 16296 2136 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:49:29,703 log 16296 12440 Bad Request: /register
+WARNING 2026-03-02 11:49:29,705 log 16296 12440 "POST /register HTTP/1.1" 400 13387
+INFO 2026-03-02 11:50:00,660 autoreload 16296 2136 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:50:02,649 autoreload 1880 19036 Watching for file changes with StatReloader
+INFO 2026-03-02 11:50:06,090 autoreload 1880 19036 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:50:08,177 autoreload 2152 6240 Watching for file changes with StatReloader
+INFO 2026-03-02 11:50:21,043 autoreload 2152 6240 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:50:23,413 autoreload 17520 2612 Watching for file changes with StatReloader
+INFO 2026-03-02 11:55:07,507 autoreload 18536 10580 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:55:10,917 log 18536 19148 Bad Request: /register
+WARNING 2026-03-02 11:55:10,919 log 18536 19148 "POST /register HTTP/1.1" 400 13415
+WARNING 2026-03-02 11:55:32,128 log 18536 19148 Bad Request: /register
+WARNING 2026-03-02 11:55:32,129 log 18536 19148 "POST /register HTTP/1.1" 400 13415
+INFO 2026-03-02 11:55:47,155 autoreload 18536 10580 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:55:49,723 autoreload 9372 11848 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:56:33,341 log 9372 13772 Bad Request: /register
+WARNING 2026-03-02 11:56:33,343 log 9372 13772 "POST /register HTTP/1.1" 400 13556
+INFO 2026-03-02 11:58:41,204 autoreload 9372 11848 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:58:43,425 autoreload 7064 17260 Watching for file changes with StatReloader
+INFO 2026-03-02 11:58:46,121 autoreload 7064 17260 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:58:48,562 autoreload 7264 18600 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:58:50,359 log 7264 12964 Bad Request: /register
+WARNING 2026-03-02 11:58:50,361 log 7264 12964 "POST /register HTTP/1.1" 400 13556
+WARNING 2026-03-02 11:58:59,100 log 7264 12964 Bad Request: /register
+WARNING 2026-03-02 11:58:59,101 log 7264 12964 "POST /register HTTP/1.1" 400 13604
+INFO 2026-03-02 11:59:36,806 autoreload 7264 18600 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 11:59:39,260 autoreload 2884 18684 Watching for file changes with StatReloader
+WARNING 2026-03-02 11:59:41,022 log 2884 2632 Bad Request: /register
+WARNING 2026-03-02 11:59:41,024 log 2884 2632 "POST /register HTTP/1.1" 400 13604
+WARNING 2026-03-02 11:59:48,472 log 2884 2632 Bad Request: /register
+WARNING 2026-03-02 11:59:48,475 log 2884 2632 "POST /register HTTP/1.1" 400 13556
+WARNING 2026-03-02 11:59:53,757 log 2884 2632 Bad Request: /register
+WARNING 2026-03-02 11:59:53,758 log 2884 2632 "POST /register HTTP/1.1" 400 13556
+INFO 2026-03-02 11:59:59,047 autoreload 2884 18684 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 12:00:01,268 autoreload 1960 6816 Watching for file changes with StatReloader
+INFO 2026-03-02 12:00:11,265 autoreload 1960 6816 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 12:00:13,527 autoreload 4564 1828 Watching for file changes with StatReloader
+WARNING 2026-03-02 12:00:33,302 log 4564 13476 Bad Request: /register
+WARNING 2026-03-02 12:00:33,303 log 4564 13476 "POST /register HTTP/1.1" 400 13556
+WARNING 2026-03-02 12:00:39,726 log 4564 13476 Bad Request: /register
+WARNING 2026-03-02 12:00:39,727 log 4564 13476 "POST /register HTTP/1.1" 400 13556
+WARNING 2026-03-02 12:00:45,725 log 4564 13476 Bad Request: /register
+WARNING 2026-03-02 12:00:45,727 log 4564 13476 "POST /register HTTP/1.1" 400 13797
+INFO 2026-03-02 12:01:50,920 autoreload 4564 1828 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 12:01:52,916 autoreload 18768 12456 Watching for file changes with StatReloader
+INFO 2026-03-02 12:24:59,612 autoreload 18768 12456 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-02 12:25:02,188 autoreload 2848 18216 Watching for file changes with StatReloader
+WARNING 2026-03-02 12:25:03,048 log 2848 18524 Bad Request: /register
+WARNING 2026-03-02 12:25:03,049 log 2848 18524 "POST /register HTTP/1.1" 400 13797
+WARNING 2026-03-02 12:25:07,486 log 2848 18524 Bad Request: /register
+WARNING 2026-03-02 12:25:07,488 log 2848 18524 "POST /register HTTP/1.1" 400 13652
+WARNING 2026-03-02 12:27:17,486 log 2848 18524 Bad Request: /register
+WARNING 2026-03-02 12:27:17,488 log 2848 18524 "POST /register HTTP/1.1" 400 13375
+INFO 2026-03-02 12:28:04,386 autoreload 2848 18216 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 12:28:06,933 autoreload 18992 12596 Watching for file changes with StatReloader
+INFO 2026-03-02 12:28:28,667 autoreload 18992 12596 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 12:28:30,765 autoreload 4088 1780 Watching for file changes with StatReloader
+INFO 2026-03-02 12:28:35,478 autoreload 4088 1780 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 12:28:37,525 autoreload 16464 5508 Watching for file changes with StatReloader
+INFO 2026-03-02 12:28:49,759 autoreload 16464 5508 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 12:28:51,852 autoreload 13532 5296 Watching for file changes with StatReloader
+INFO 2026-03-02 12:29:34,297 autoreload 13532 5296 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 12:29:36,495 autoreload 8792 5104 Watching for file changes with StatReloader
+INFO 2026-03-02 12:29:52,811 autoreload 8792 5104 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 12:29:55,329 autoreload 18128 10948 Watching for file changes with StatReloader
+WARNING 2026-03-02 12:30:07,479 log 18128 6828 Bad Request: /register
+WARNING 2026-03-02 12:30:07,480 log 18128 6828 "POST /register HTTP/1.1" 400 13427
+WARNING 2026-03-02 12:30:43,247 log 18128 6828 Bad Request: /register
+WARNING 2026-03-02 12:30:43,248 log 18128 6828 "POST /register HTTP/1.1" 400 13415
+ERROR 2026-03-02 12:31:18,226 log 18128 6828 Internal Server Error: /register
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 92, in post
+    send_welcome_email.delay(str(user.id))
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\celery\app\task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\celery\app\task.py", line 608, in apply_async
+    return app.send_task(
+           ~~~~~~~~~~~~~^
+        self.name, args, kwargs, task_id=task_id, producer=producer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **options
+        ^^^^^^^^^
+    )
+    ^
+  File "E:\chatting_app\env\Lib\site-packages\celery\app\base.py", line 852, in send_task
+    driver_type = self.producer_pool.connections.connection.transport.driver_type
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\kombu\connection.py", line 974, in transport
+    self._transport = self.create_transport()
+                      ~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\chatting_app\env\Lib\site-packages\kombu\connection.py", line 647, in create_transport
+    return self.get_transport_cls()(client=self)
+           ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\chatting_app\env\Lib\site-packages\kombu\connection.py", line 653, in get_transport_cls
+    transport_cls = get_transport_cls(transport_cls)
+  File "E:\chatting_app\env\Lib\site-packages\kombu\transport\__init__.py", line 92, in get_transport_cls
+    _transport_cache[transport] = resolve_transport(transport)
+                                  ~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\kombu\transport\__init__.py", line 77, in resolve_transport
+    return symbol_by_name(transport)
+  File "E:\chatting_app\env\Lib\site-packages\kombu\utils\imports.py", line 59, in symbol_by_name
+    module = imp(module_name, package=package, **kwargs)
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1027, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "E:\chatting_app\env\Lib\site-packages\kombu\transport\sqlalchemy\__init__.py", line 60, in <module>
+    from sqlalchemy import create_engine, text
+ModuleNotFoundError: No module named 'sqlalchemy'
+ERROR 2026-03-02 12:31:18,235 log 18128 6828 "POST /register HTTP/1.1" 500 195876
+INFO 2026-03-02 17:01:04,951 autoreload 4052 15292 Watching for file changes with StatReloader
+WARNING 2026-03-02 17:01:20,340 log 4052 5224 Method Not Allowed: /register
+WARNING 2026-03-02 17:01:20,341 log 4052 5224 "GET /register HTTP/1.1" 405 13167
+WARNING 2026-03-02 17:01:20,536 log 4052 5224 Not Found: /favicon.ico
+WARNING 2026-03-02 17:01:20,537 log 4052 5224 "GET /favicon.ico HTTP/1.1" 404 2521
+WARNING 2026-03-02 17:01:40,485 log 4052 5224 Bad Request: /register
+WARNING 2026-03-02 17:01:40,488 log 4052 5224 "POST /register HTTP/1.1" 400 13427
+WARNING 2026-03-02 17:02:37,242 log 4052 2076 Bad Request: /register
+WARNING 2026-03-02 17:02:37,243 log 4052 2076 "POST /register HTTP/1.1" 400 13375
+WARNING 2026-03-02 17:02:48,782 log 4052 2932 Method Not Allowed: /register
+WARNING 2026-03-02 17:02:48,783 log 4052 2932 "GET /register HTTP/1.1" 405 13167
+INFO 2026-03-02 17:02:51,687 log 4052 2932 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-03-02 17:02:51,713 log 4052 2932 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4082
+INFO 2026-03-02 17:02:51,735 log 4052 2932 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:02:51,737 log 4052 15624 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:02:51,738 log 4052 15680 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:02:51,743 log 4052 15680 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:02:51,747 log 4052 15680 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:02:51,747 log 4052 15624 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:02:51,750 log 4052 15624 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:06,309 log 4052 15624 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-03-02 17:03:06,404 log 4052 15624 "GET /admin/ HTTP/1.1" 200 19067
+INFO 2026-03-02 17:03:06,434 log 4052 15624 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:06,445 log 4052 15680 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:06,447 log 4052 15624 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,851 log 4052 15624 "GET /admin/account/user/ HTTP/1.1" 200 19042
+INFO 2026-03-02 17:03:23,882 log 4052 15624 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,889 log 4052 5776 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,890 log 4052 2932 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,893 log 4052 15624 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,898 log 4052 15644 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,898 log 4052 5776 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,902 log 4052 15624 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,905 log 4052 4880 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,906 log 4052 2932 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,919 log 4052 2932 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:23,983 log 4052 15680 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:03:24,016 log 4052 15680 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,404 log 4052 15680 "GET /admin/account/user/ffad52ae-b449-4a94-9e35-51bd7cb54229/change/ HTTP/1.1" 200 44638
+INFO 2026-03-02 17:03:26,446 log 4052 15680 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,455 log 4052 4880 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,457 log 4052 15624 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,458 log 4052 2932 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,459 log 4052 5776 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,468 log 4052 5776 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,519 log 4052 15680 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:03:26,606 log 4052 15680 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:26,606 log 4052 5776 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:03:44,064 log 4052 5776 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17381
+INFO 2026-03-02 17:03:44,262 log 4052 5776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:03:50,195 log 4052 5776 "GET /admin/account/user/ HTTP/1.1" 200 19042
+INFO 2026-03-02 17:03:50,285 log 4052 5776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:03:51,711 log 4052 5776 "GET /admin/account/user/ffad52ae-b449-4a94-9e35-51bd7cb54229/change/ HTTP/1.1" 200 44638
+INFO 2026-03-02 17:03:51,805 log 4052 5776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:04:27,272 log 4052 5776 "GET /admin/account/user/ HTTP/1.1" 200 19042
+INFO 2026-03-02 17:04:27,464 log 4052 5776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:04:30,614 log 4052 5776 "POST /admin/account/user/ HTTP/1.1" 200 17237
+INFO 2026-03-02 17:04:30,726 log 4052 5776 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2026-03-02 17:04:31,665 log 4052 5776 "POST /admin/account/user/ HTTP/1.1" 302 0
+INFO 2026-03-02 17:04:31,744 log 4052 5776 "GET /admin/account/user/ HTTP/1.1" 200 18793
+INFO 2026-03-02 17:04:31,838 log 4052 5776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:04:31,885 log 4052 5776 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:04:33,655 log 4052 5776 "GET /admin/account/user/ HTTP/1.1" 200 18659
+INFO 2026-03-02 17:04:33,874 log 4052 5776 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:06:03,103 autoreload 4052 15292 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-02 17:06:06,915 autoreload 17624 10968 Watching for file changes with StatReloader
+INFO 2026-03-02 17:06:51,682 log 17624 17352 "POST /register HTTP/1.1" 201 13542
+INFO 2026-03-02 17:08:31,825 autoreload 17624 10968 E:\chatting_app\chat\account\models.py changed, reloading.
+INFO 2026-03-02 17:08:34,269 autoreload 2652 11792 Watching for file changes with StatReloader
+INFO 2026-03-02 17:08:38,447 log 2652 15300 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-02 17:08:38,536 log 2652 15300 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:09:27,288 log 2652 15300 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17381
+INFO 2026-03-02 17:09:27,494 log 2652 15300 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:09:28,836 log 2652 15300 "GET /admin/security/loginhistory/add/ HTTP/1.1" 200 28883
+INFO 2026-03-02 17:09:28,875 log 2652 12100 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-03-02 17:09:28,927 log 2652 15300 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:09:31,571 log 2652 15300 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17381
+INFO 2026-03-02 17:13:22,150 autoreload 2652 11792 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-03-02 17:13:24,607 autoreload 17788 10168 Watching for file changes with StatReloader
+INFO 2026-03-02 17:13:26,244 autoreload 17788 10168 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-03-02 17:13:28,582 autoreload 5160 7040 Watching for file changes with StatReloader
+INFO 2026-03-02 17:13:34,480 autoreload 5160 7040 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-03-02 17:13:36,965 autoreload 17464 6752 Watching for file changes with StatReloader
+INFO 2026-03-02 17:13:37,631 log 17464 11856 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17381
+INFO 2026-03-02 17:13:37,808 log 17464 11856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:13:41,475 log 17464 11856 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17381
+INFO 2026-03-02 17:13:41,562 log 17464 11856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:13:43,984 log 17464 11856 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 18874
+INFO 2026-03-02 17:13:44,179 log 17464 11856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:13:47,525 log 17464 11856 "GET /admin/security/securityauditlog/d6468708-2cf4-45d1-bc23-b99c1a893429/change/ HTTP/1.1" 200 26189
+INFO 2026-03-02 17:13:47,620 log 17464 11856 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:13:47,644 log 17464 4020 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 689
+INFO 2026-03-02 17:13:50,215 log 17464 4020 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 18874
+INFO 2026-03-02 17:13:57,056 log 17464 4020 "GET /admin/security/securityauditlog/d6468708-2cf4-45d1-bc23-b99c1a893429/change/ HTTP/1.1" 200 26189
+INFO 2026-03-02 17:13:57,248 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:14:12,963 log 17464 4020 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 17429
+INFO 2026-03-02 17:14:13,061 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:14:16,267 log 17464 4020 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 18874
+INFO 2026-03-02 17:14:16,386 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:14:21,416 log 17464 4020 "GET /admin/security/ipwhitelist/ HTTP/1.1" 200 17370
+INFO 2026-03-02 17:14:21,504 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:14:23,505 log 17464 4020 "GET /admin/security/loginhistory/ HTTP/1.1" 200 17381
+INFO 2026-03-02 17:14:23,592 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:14:30,766 log 17464 4020 "GET /admin/django_celery_beat/intervalschedule/ HTTP/1.1" 200 17392
+INFO 2026-03-02 17:14:30,857 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:14:34,236 log 17464 4020 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-02 17:14:34,326 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:15:46,681 log 17464 4020 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 18874
+INFO 2026-03-02 17:15:46,884 log 17464 4020 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:18:22,731 autoreload 17464 6752 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-03-02 17:18:24,946 autoreload 352 15688 Watching for file changes with StatReloader
+INFO 2026-03-02 17:18:26,588 autoreload 352 15688 E:\chatting_app\chat\security\admin.py changed, reloading.
+INFO 2026-03-02 17:18:28,942 autoreload 10252 15884 Watching for file changes with StatReloader
+INFO 2026-03-02 17:18:30,413 log 10252 17040 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 21035
+INFO 2026-03-02 17:18:30,512 log 10252 17040 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:18:30,632 log 10252 17040 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1761
+INFO 2026-03-02 17:19:20,795 log 10252 17040 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-02 17:19:20,996 log 10252 17040 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:19:23,040 log 10252 17040 "GET /admin/account/user/cef11e66-5304-4690-878d-7755a3f8f139/change/ HTTP/1.1" 200 44617
+INFO 2026-03-02 17:19:23,242 log 10252 17040 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-02 17:19:24,989 log 10252 17040 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-02 17:19:50,531 autoreload 10252 15884 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-02 17:19:53,125 autoreload 14524 9032 Watching for file changes with StatReloader
+WARNING 2026-03-02 17:19:55,010 log 14524 12180 Bad Request: /register
+WARNING 2026-03-02 17:19:55,012 log 14524 12180 "POST /register HTTP/1.1" 400 13438
+INFO 2026-03-05 11:34:57,332 autoreload 17664 2920 Watching for file changes with StatReloader
+WARNING 2026-03-05 11:35:37,986 log 17664 16688 Method Not Allowed: /register
+WARNING 2026-03-05 11:35:37,988 log 17664 16688 "GET /register HTTP/1.1" 405 13077
+WARNING 2026-03-05 11:35:38,341 log 17664 16688 Method Not Allowed: /register
+WARNING 2026-03-05 11:35:38,347 log 17664 16688 "GET /register HTTP/1.1" 405 13077
+INFO 2026-03-05 11:35:38,418 log 17664 16688 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,419 log 17664 7284 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,429 log 17664 16460 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,435 log 17664 16688 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,435 log 17664 7284 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,438 log 17664 13900 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,444 log 17664 3992 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,448 log 17664 16460 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,450 log 17664 16848 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,452 log 17664 16688 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,452 log 17664 7284 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:35:38,485 log 17664 16688 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+WARNING 2026-03-05 11:35:38,597 log 17664 16688 Not Found: /favicon.ico
+WARNING 2026-03-05 11:35:38,599 log 17664 16688 "GET /favicon.ico HTTP/1.1" 404 2873
+WARNING 2026-03-05 11:35:41,719 log 17664 16688 Bad Request: /register
+WARNING 2026-03-05 11:35:41,724 log 17664 16688 "POST /register HTTP/1.1" 400 13659
+INFO 2026-03-05 11:36:22,168 log 17664 16688 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-03-05 11:36:22,197 log 17664 16688 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4082
+INFO 2026-03-05 11:36:22,239 log 17664 16460 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:22,240 log 17664 16848 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:22,240 log 17664 13900 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:22,241 log 17664 3992 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:22,241 log 17664 16688 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:22,243 log 17664 7284 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:22,251 log 17664 7284 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:31,102 log 17664 7284 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-03-05 11:36:31,227 log 17664 7284 "GET /admin/ HTTP/1.1" 200 19395
+INFO 2026-03-05 11:36:31,267 log 17664 7284 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:31,278 log 17664 3992 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:31,279 log 17664 7284 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:31,283 log 17664 16688 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,591 log 17664 16688 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-05 11:36:36,621 log 17664 16848 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,622 log 17664 16688 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,622 log 17664 13900 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,624 log 17664 16460 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,628 log 17664 3992 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,631 log 17664 16848 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,632 log 17664 13900 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,633 log 17664 16460 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,633 log 17664 16688 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,643 log 17664 16688 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:36,684 log 17664 7284 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 11:36:36,705 log 17664 7284 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:40,774 log 17664 7284 "POST /admin/account/user/ HTTP/1.1" 200 17230
+INFO 2026-03-05 11:36:40,798 log 17664 7284 "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+INFO 2026-03-05 11:36:41,868 log 17664 7284 "POST /admin/account/user/ HTTP/1.1" 302 0
+INFO 2026-03-05 11:36:41,945 log 17664 7284 "GET /admin/account/user/ HTTP/1.1" 200 18779
+INFO 2026-03-05 11:36:42,026 log 17664 7284 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 11:36:42,044 log 17664 7284 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+WARNING 2026-03-05 11:40:31,466 log 17664 4248 Bad Request: /register
+WARNING 2026-03-05 11:40:31,467 log 17664 4248 "POST /register HTTP/1.1" 400 197
+WARNING 2026-03-05 11:40:56,177 log 17664 4248 Bad Request: /register
+WARNING 2026-03-05 11:40:56,179 log 17664 4248 "POST /register HTTP/1.1" 400 198
+INFO 2026-03-05 11:41:41,775 log 17664 4248 "POST /register HTTP/1.1" 201 98
+INFO 2026-03-05 11:43:36,836 autoreload 17664 2920 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-05 11:43:40,098 autoreload 17052 9508 Watching for file changes with StatReloader
+ERROR 2026-03-05 11:44:16,914 log 17052 5148 "POST /login/ HTTP/1.1" 500 108008
+WARNING 2026-03-05 11:46:05,343 log 17052 17264 Method Not Allowed: /login/
+WARNING 2026-03-05 11:46:05,345 log 17052 17264 "GET /login/ HTTP/1.1" 405 10371
+WARNING 2026-03-05 11:46:22,939 log 17052 13960 Method Not Allowed: /login/
+WARNING 2026-03-05 11:46:22,941 log 17052 13960 "GET /login/ HTTP/1.1" 405 40
+ERROR 2026-03-05 11:46:32,885 log 17052 13960 "POST /login/ HTTP/1.1" 500 108008
+WARNING 2026-03-05 11:49:17,216 log 17052 14920 Bad Request: /login/
+WARNING 2026-03-05 11:49:17,217 log 17052 14920 "POST /login/ HTTP/1.1" 400 137
+ERROR 2026-03-05 11:49:36,196 log 17052 14920 "POST /login/ HTTP/1.1" 500 108008
+INFO 2026-03-05 11:57:23,079 autoreload 17052 9508 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-05 11:57:25,475 autoreload 16128 11496 Watching for file changes with StatReloader
+INFO 2026-03-05 11:57:29,270 autoreload 16128 11496 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-05 11:57:31,713 autoreload 10068 4208 Watching for file changes with StatReloader
+ERROR 2026-03-05 11:57:35,154 log 10068 14096 "POST /login/ HTTP/1.1" 500 108008
+WARNING 2026-03-05 11:57:40,249 log 10068 14096 Too Many Requests: /login/
+WARNING 2026-03-05 11:57:40,250 log 10068 14096 "POST /login/ HTTP/1.1" 429 71
+INFO 2026-03-05 11:58:25,230 autoreload 10068 4208 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-05 11:58:27,419 autoreload 17088 8464 Watching for file changes with StatReloader
+ERROR 2026-03-05 11:58:36,821 log 17088 3096 "POST /login/ HTTP/1.1" 500 108008
+INFO 2026-03-05 12:02:43,565 autoreload 17088 8464 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-05 12:02:46,151 autoreload 12764 17712 Watching for file changes with StatReloader
+ERROR 2026-03-05 12:02:52,412 log 12764 10424 "POST /login/ HTTP/1.1" 500 108008
+INFO 2026-03-05 19:42:31,753 autoreload 13872 10588 Watching for file changes with StatReloader
+INFO 2026-03-05 19:43:13,000 autoreload 13872 10588 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-05 19:43:15,480 autoreload 14928 15696 Watching for file changes with StatReloader
+INFO 2026-03-05 19:44:37,735 autoreload 15536 8536 Watching for file changes with StatReloader
+INFO 2026-03-05 19:44:52,979 autoreload 15536 8536 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-05 19:44:54,606 autoreload 3692 11640 Watching for file changes with StatReloader
+INFO 2026-03-05 19:45:06,239 autoreload 3692 11640 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-05 19:45:08,518 autoreload 8264 9436 Watching for file changes with StatReloader
+ERROR 2026-03-05 19:55:01,108 log 8264 22324 "POST /login/ HTTP/1.1" 500 108615
+INFO 2026-03-05 20:01:52,681 autoreload 8264 9436 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-05 20:01:55,663 autoreload 21428 22348 Watching for file changes with StatReloader
+INFO 2026-03-05 20:02:04,496 autoreload 21428 22348 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-05 20:02:06,433 autoreload 21144 4836 Watching for file changes with StatReloader
+ERROR 2026-03-05 20:02:13,044 log 21144 9928 "POST /login/ HTTP/1.1" 500 108615
+INFO 2026-03-05 20:02:30,447 autoreload 21144 4836 E:\chatting_app\chat\account\serializers.py changed, reloading.
+INFO 2026-03-05 20:02:32,364 autoreload 4580 15048 Watching for file changes with StatReloader
+ERROR 2026-03-05 20:02:44,228 log 4580 10976 "POST /login/ HTTP/1.1" 500 108615
+WARNING 2026-03-05 20:02:53,636 log 4580 10976 Bad Request: /login/
+WARNING 2026-03-05 20:02:53,637 log 4580 10976 "POST /login/ HTTP/1.1" 400 193
+ERROR 2026-03-05 20:03:08,818 log 4580 10976 "POST /login/ HTTP/1.1" 500 108615
+WARNING 2026-03-05 20:17:52,774 log 4580 17696 Bad Request: /login/
+WARNING 2026-03-05 20:18:01,678 log 4580 17696 "POST /login/ HTTP/1.1" 400 193
+INFO 2026-03-05 20:18:08,408 autoreload 8556 14160 Watching for file changes with StatReloader
+WARNING 2026-03-05 20:18:16,146 log 8556 20880 Bad Request: /login/
+WARNING 2026-03-05 20:18:16,147 log 8556 20880 "POST /login/ HTTP/1.1" 400 193
+INFO 2026-03-05 20:20:16,679 autoreload 8556 14160 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-05 20:20:19,179 autoreload 19792 22304 Watching for file changes with StatReloader
+INFO 2026-03-05 20:20:21,365 autoreload 19792 22304 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-05 20:20:23,245 autoreload 21324 17224 Watching for file changes with StatReloader
+ERROR 2026-03-05 20:20:33,319 log 21324 22080 "POST /login/ HTTP/1.1" 500 108615
+ERROR 2026-03-05 20:26:29,348 log 21324 20120 "POST /login/ HTTP/1.1" 500 108615
+INFO 2026-03-05 20:31:19,766 autoreload 21324 17224 E:\chatting_app\chat\security\service.py changed, reloading.
+INFO 2026-03-05 20:31:22,259 autoreload 19748 8696 Watching for file changes with StatReloader
+INFO 2026-03-05 20:31:25,484 autoreload 19748 8696 E:\chatting_app\chat\security\service.py changed, reloading.
+INFO 2026-03-05 20:31:27,763 autoreload 17032 19628 Watching for file changes with StatReloader
+INFO 2026-03-05 20:31:36,027 log 17032 20444 "POST /login/ HTTP/1.1" 200 838
+INFO 2026-03-05 20:32:35,259 log 17032 13992 "GET /admin/ HTTP/1.1" 200 19716
+INFO 2026-03-05 20:32:35,326 log 17032 13992 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,331 log 17032 21168 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,340 log 17032 9960 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,342 log 17032 13992 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,346 log 17032 20460 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,348 log 17032 4968 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,357 log 17032 4968 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,370 log 17032 13992 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,371 log 17032 4968 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:35,372 log 17032 20460 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+WARNING 2026-03-05 20:32:35,481 log 17032 20460 Not Found: /favicon.ico
+WARNING 2026-03-05 20:32:35,483 log 17032 20460 "GET /favicon.ico HTTP/1.1" 404 3036
+INFO 2026-03-05 20:32:37,319 log 17032 20460 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-05 20:32:37,358 log 17032 20460 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,375 log 17032 16216 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,376 log 17032 13992 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,376 log 17032 9960 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,379 log 17032 4968 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,385 log 17032 13992 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,385 log 17032 16216 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,391 log 17032 21168 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,398 log 17032 9960 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,407 log 17032 9960 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:37,466 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:32:37,512 log 17032 20460 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,194 log 17032 20460 "GET /admin/account/user/814f06ad-5240-4a9e-bd2f-7d39366abb28/change/ HTTP/1.1" 200 44659
+INFO 2026-03-05 20:32:39,231 log 17032 20460 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,243 log 17032 9960 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,243 log 17032 16216 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,244 log 17032 13992 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,246 log 17032 21168 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,255 log 17032 21168 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,311 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:32:39,399 log 17032 21168 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:39,399 log 17032 20460 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:32:50,762 log 17032 20460 "GET /admin/security/ipwhitelist/ HTTP/1.1" 200 17370
+INFO 2026-03-05 20:32:50,862 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:32:54,070 log 17032 20460 "GET /admin/security/loginhistory/ HTTP/1.1" 200 21901
+INFO 2026-03-05 20:32:54,163 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:32:54,194 log 17032 20460 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:33:13,875 log 17032 20460 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 22748
+INFO 2026-03-05 20:33:13,971 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:33:26,215 log 17032 20460 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 18897
+INFO 2026-03-05 20:33:26,316 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:33:27,921 log 17032 20460 "GET /admin/security/suspiciousactivity/5b4061de-d582-4cac-aeb3-3c87792d1e0f/change/ HTTP/1.1" 200 30362
+INFO 2026-03-05 20:33:27,985 log 17032 21168 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-03-05 20:33:28,122 log 17032 20460 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-05 20:46:44,457 log 17032 1412 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 18897
+INFO 2026-03-06 20:14:44,682 autoreload 21716 12808 Watching for file changes with StatReloader
+INFO 2026-03-06 20:15:07,731 log 21716 21244 "GET /admin/ HTTP/1.1" 200 19716
+INFO 2026-03-06 20:15:07,765 log 21716 21244 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,766 log 21716 9380 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,769 log 21716 7668 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,776 log 21716 7668 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,776 log 21716 9380 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,776 log 21716 21244 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,786 log 21716 9380 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,799 log 21716 9380 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,800 log 21716 21244 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:15:07,801 log 21716 7668 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+WARNING 2026-03-06 20:15:07,959 log 21716 7668 Not Found: /favicon.ico
+WARNING 2026-03-06 20:15:07,960 log 21716 7668 "GET /favicon.ico HTTP/1.1" 404 3036
+INFO 2026-03-06 20:16:31,105 log 21716 7668 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 18897
+INFO 2026-03-06 20:16:31,134 log 21716 7668 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,148 log 21716 21244 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,152 log 21716 9380 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,153 log 21716 1480 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,158 log 21716 5840 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,159 log 21716 21244 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,163 log 21716 12528 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,163 log 21716 9380 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,169 log 21716 5840 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,178 log 21716 5840 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:31,217 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:16:31,246 log 21716 7668 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,725 log 21716 7668 "GET /admin/security/suspiciousactivity/5b4061de-d582-4cac-aeb3-3c87792d1e0f/change/ HTTP/1.1" 200 30362
+INFO 2026-03-06 20:16:32,750 log 21716 7668 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,761 log 21716 9380 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,761 log 21716 5840 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,762 log 21716 12528 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,766 log 21716 12528 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,774 log 21716 12528 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,779 log 21716 12528 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,821 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:16:32,906 log 21716 12528 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:16:32,907 log 21716 7668 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:17:19,492 log 21716 7668 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 22748
+INFO 2026-03-06 20:17:19,585 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:17:19,611 log 21716 7668 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-03-06 20:17:42,054 log 21716 7668 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-06 20:17:42,140 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:17:43,780 log 21716 7668 "GET /admin/account/user/814f06ad-5240-4a9e-bd2f-7d39366abb28/change/ HTTP/1.1" 200 44659
+INFO 2026-03-06 20:17:43,980 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:17:48,342 log 21716 7668 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-06 20:17:50,851 log 21716 7668 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 22748
+INFO 2026-03-06 20:17:50,939 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:17:52,734 log 21716 7668 "GET /admin/security/loginhistory/ HTTP/1.1" 200 21901
+INFO 2026-03-06 20:17:52,824 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:08,936 log 21716 7668 "GET /admin/security/ipwhitelist/ HTTP/1.1" 200 17370
+INFO 2026-03-06 20:18:09,023 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:11,118 log 21716 7668 "GET /admin/security/ipwhitelist/add/ HTTP/1.1" 200 21001
+INFO 2026-03-06 20:18:11,310 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:18,528 log 21716 7668 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 18897
+INFO 2026-03-06 20:18:18,624 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:24,101 log 21716 7668 "GET /admin/security/suspiciousactivity/5b4061de-d582-4cac-aeb3-3c87792d1e0f/change/ HTTP/1.1" 200 30362
+INFO 2026-03-06 20:18:24,184 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:44,019 log 21716 7668 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 18897
+INFO 2026-03-06 20:18:44,097 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:47,276 log 21716 7668 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 22748
+INFO 2026-03-06 20:18:47,360 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:18:54,670 log 21716 1772 "POST /login/ HTTP/1.1" 200 838
+INFO 2026-03-06 20:19:15,832 log 21716 7668 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 23632
+INFO 2026-03-06 20:19:15,925 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:19:35,358 log 21716 7668 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 19344
+INFO 2026-03-06 20:19:35,445 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:19:42,457 log 21716 7668 "GET /admin/security/suspiciousactivity/b02b45d8-d4aa-4b07-9f31-c51f612e1dfd/change/ HTTP/1.1" 200 30362
+INFO 2026-03-06 20:19:42,645 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:19:53,847 log 21716 7668 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 19344
+INFO 2026-03-06 20:20:05,731 log 21716 7668 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-06 20:20:05,818 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:20:07,201 log 21716 7668 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-06 20:20:07,288 log 21716 7668 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-06 20:22:19,407 autoreload 21716 12808 E:\chatting_app\chat\chat\settings.py changed, reloading.
+INFO 2026-03-06 20:22:22,355 autoreload 17240 13772 Watching for file changes with StatReloader
+INFO 2026-03-06 20:34:35,617 autoreload 17240 13772 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-06 20:34:37,983 autoreload 1844 18056 Watching for file changes with StatReloader
+INFO 2026-03-06 20:36:37,005 autoreload 1844 18056 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-06 20:36:38,989 autoreload 7668 2856 Watching for file changes with StatReloader
+INFO 2026-03-06 20:40:02,003 autoreload 7668 2856 E:\chatting_app\chat\account\views.py changed, reloading.
+INFO 2026-03-06 20:40:03,891 autoreload 3132 2928 Watching for file changes with StatReloader
+INFO 2026-03-06 20:42:36,557 autoreload 3132 2928 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-06 20:42:38,465 autoreload 14356 11840 Watching for file changes with StatReloader
+INFO 2026-03-06 21:07:22,077 autoreload 14356 11840 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-06 21:07:24,918 autoreload 21704 17620 Watching for file changes with StatReloader
+ERROR 2026-03-06 21:07:29,810 log 21704 14048 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 168, in post
+    is_suspicious = self.ip_service.check_suspicious_activity(
+        user, ip_address, device_info, request
+    )
+  File "E:\chatting_app\chat\security\service.py", line 224, in check_suspicious_activity
+    if suspicious and activity_type:
+       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'suspicious' where it is not associated with a value
+ERROR 2026-03-06 21:07:29,819 log 21704 14048 "POST /login/ HTTP/1.1" 500 109064
+ERROR 2026-03-06 21:09:35,552 log 21704 11836 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 168, in post
+    is_suspicious = self.ip_service.check_suspicious_activity(
+        user, ip_address, device_info, request
+    )
+  File "E:\chatting_app\chat\security\service.py", line 224, in check_suspicious_activity
+    if suspicious and activity_type:
+       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'suspicious' where it is not associated with a value
+ERROR 2026-03-06 21:09:35,586 log 21704 11836 "POST /login/ HTTP/1.1" 500 109064
+ERROR 2026-03-06 21:12:32,130 log 21704 2832 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 168, in post
+    is_suspicious = self.ip_service.check_suspicious_activity(
+        user, ip_address, device_info, request
+    )
+  File "E:\chatting_app\chat\security\service.py", line 224, in check_suspicious_activity
+    if suspicious and activity_type:
+       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'suspicious' where it is not associated with a value
+ERROR 2026-03-06 21:12:32,134 log 21704 2832 "POST /login/ HTTP/1.1" 500 109064
+INFO 2026-03-12 19:03:04,544 autoreload 4276 2636 Watching for file changes with StatReloader
+INFO 2026-03-12 19:03:18,280 log 4276 2876 "GET /admin/ HTTP/1.1" 200 19716
+INFO 2026-03-12 19:03:18,314 log 4276 2876 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,331 log 4276 3624 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,335 log 4276 16372 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,335 log 4276 2876 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,339 log 4276 2876 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,346 log 4276 2876 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,347 log 4276 16372 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,360 log 4276 16372 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,360 log 4276 2876 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:18,364 log 4276 3624 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+WARNING 2026-03-12 19:03:18,579 log 4276 3624 Not Found: /favicon.ico
+WARNING 2026-03-12 19:03:18,581 log 4276 3624 "GET /favicon.ico HTTP/1.1" 404 3036
+INFO 2026-03-12 19:03:20,512 log 4276 3624 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-12 19:03:20,532 log 4276 3624 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,542 log 4276 16372 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,544 log 4276 3624 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,549 log 4276 8564 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,549 log 4276 13492 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,551 log 4276 16372 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,553 log 4276 3156 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,553 log 4276 3624 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,558 log 4276 13492 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,568 log 4276 13492 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:20,601 log 4276 2876 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:20,627 log 4276 2876 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,439 log 4276 2876 "GET /admin/account/user/d522253c-09f3-403e-af24-f95ac4636865/change/ HTTP/1.1" 200 44561
+INFO 2026-03-12 19:03:22,474 log 4276 2876 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,483 log 4276 3156 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,483 log 4276 3624 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,486 log 4276 2876 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,486 log 4276 16372 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,494 log 4276 16372 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,550 log 4276 13492 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:22,642 log 4276 16372 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:22,643 log 4276 13492 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:25,634 log 4276 16372 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 19344
+INFO 2026-03-12 19:03:25,726 log 4276 16372 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:28,664 log 4276 12384 "GET /admin/security/suspiciousactivity/b02b45d8-d4aa-4b07-9f31-c51f612e1dfd/change/ HTTP/1.1" 200 30362
+INFO 2026-03-12 19:03:28,708 log 4276 10152 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:28,887 log 4276 12384 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:35,369 log 4276 12384 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 23632
+INFO 2026-03-12 19:03:35,436 log 4276 12384 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:35,450 log 4276 12384 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-03-12 19:03:47,730 log 4276 12384 "GET /admin/security/loginhistory/ HTTP/1.1" 200 22887
+INFO 2026-03-12 19:03:47,928 log 4276 12384 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:54,317 log 4276 12384 "GET /admin/security/ipwhitelist/ HTTP/1.1" 200 17370
+INFO 2026-03-12 19:03:54,412 log 4276 12384 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-12 19:03:56,045 log 4276 12384 "GET /admin/security/ipwhitelist/add/ HTTP/1.1" 200 21001
+INFO 2026-03-12 19:03:56,227 log 4276 12384 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 11:58:32,277 autoreload 15864 15220 Watching for file changes with StatReloader
+WARNING 2026-03-15 11:59:14,445 log 15864 13748 Bad Request: /login/
+WARNING 2026-03-15 11:59:14,448 log 15864 13748 "POST /login/ HTTP/1.1" 400 193
+ERROR 2026-03-15 11:59:30,294 log 15864 13748 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\chatting_app\env\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "E:\chatting_app\env\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "E:\chatting_app\env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\chatting_app\chat\account\views.py", line 168, in post
+    is_suspicious = self.ip_service.check_suspicious_activity(
+        user, ip_address, device_info, request
+    )
+  File "E:\chatting_app\chat\security\service.py", line 224, in check_suspicious_activity
+    if suspicious and activity_type:
+       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'suspicious' where it is not associated with a value
+ERROR 2026-03-15 11:59:30,307 log 15864 13748 "POST /login/ HTTP/1.1" 500 109125
+INFO 2026-03-15 12:06:21,388 autoreload 15864 15220 E:\chatting_app\chat\security\service.py changed, reloading.
+INFO 2026-03-15 12:06:23,890 autoreload 15476 16868 Watching for file changes with StatReloader
+INFO 2026-03-15 12:06:35,440 autoreload 15476 16868 E:\chatting_app\chat\security\service.py changed, reloading.
+INFO 2026-03-15 12:06:37,492 autoreload 10536 15620 Watching for file changes with StatReloader
+INFO 2026-03-15 12:06:56,601 autoreload 10536 15620 E:\chatting_app\chat\security\service.py changed, reloading.
+INFO 2026-03-15 12:06:58,733 autoreload 5232 3824 Watching for file changes with StatReloader
+INFO 2026-03-15 12:07:15,327 log 5232 5252 "POST /login/ HTTP/1.1" 200 839
+INFO 2026-03-15 12:07:47,617 log 5232 8508 "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-03-15 12:07:47,675 log 5232 8508 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4082
+INFO 2026-03-15 12:07:47,735 log 5232 8508 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:47,746 log 5232 832 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:47,755 log 5232 8508 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:47,761 log 5232 17172 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:47,762 log 5232 1484 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:47,764 log 5232 6904 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:47,766 log 5232 17172 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+WARNING 2026-03-15 12:07:47,844 log 5232 17172 Not Found: /favicon.ico
+WARNING 2026-03-15 12:07:47,845 log 5232 17172 "GET /favicon.ico HTTP/1.1" 404 3036
+INFO 2026-03-15 12:07:56,854 log 5232 17172 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-03-15 12:07:56,951 log 5232 17172 "GET /admin/ HTTP/1.1" 200 19716
+INFO 2026-03-15 12:07:56,995 log 5232 17172 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:57,000 log 5232 6904 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:57,001 log 5232 1484 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2026-03-15 12:07:57,000 log 5232 17172 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,155 log 5232 17172 "GET /admin/security/suspiciousactivity/ HTTP/1.1" 200 19344
+INFO 2026-03-15 12:08:01,189 log 5232 17172 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,200 log 5232 6904 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,200 log 5232 832 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,203 log 5232 17172 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,207 log 5232 8508 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,209 log 5232 14444 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,215 log 5232 6904 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,216 log 5232 17172 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,217 log 5232 832 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,230 log 5232 832 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:01,272 log 5232 1484 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:08:01,308 log 5232 1484 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:04,652 log 5232 1484 "GET /admin/security/securityauditlog/ HTTP/1.1" 200 24516
+INFO 2026-03-15 12:08:04,848 log 5232 1484 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:08:04,866 log 5232 1484 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2026-03-15 12:08:20,325 log 5232 1484 "GET /admin/security/loginhistory/ HTTP/1.1" 200 23871
+INFO 2026-03-15 12:08:20,516 log 5232 1484 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:08:28,958 log 5232 1484 "GET /admin/security/ipwhitelist/ HTTP/1.1" 200 17370
+INFO 2026-03-15 12:08:29,043 log 5232 1484 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:08:32,526 log 5232 1484 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-15 12:08:32,617 log 5232 1484 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:08:35,151 log 5232 1484 "GET /admin/security/loginhistory/ HTTP/1.1" 200 23871
+INFO 2026-03-15 12:08:35,250 log 5232 1484 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:14:25,072 autoreload 5232 3824 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:14:27,669 autoreload 16108 6232 Watching for file changes with StatReloader
+WARNING 2026-03-15 12:14:56,326 log 16108 19364 Not Found: /2fa
+WARNING 2026-03-15 12:14:56,328 log 16108 19364 "GET /2fa HTTP/1.1" 404 3012
+WARNING 2026-03-15 12:15:07,346 log 16108 19364 Not Found: /api/2fa
+WARNING 2026-03-15 12:15:07,350 log 16108 19364 "GET /api/2fa HTTP/1.1" 404 5125
+INFO 2026-03-15 12:15:15,346 log 16108 19364 "GET /admin/security/loginhistory/ HTTP/1.1" 200 23871
+INFO 2026-03-15 12:16:03,557 autoreload 16108 6232 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:16:05,514 autoreload 15520 14216 Watching for file changes with StatReloader
+INFO 2026-03-15 12:16:41,526 autoreload 15520 14216 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:16:43,234 autoreload 9964 6672 Watching for file changes with StatReloader
+INFO 2026-03-15 12:16:50,269 autoreload 9964 6672 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:16:52,168 autoreload 15432 18536 Watching for file changes with StatReloader
+INFO 2026-03-15 12:17:35,405 autoreload 15432 18536 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:17:37,278 autoreload 13264 6256 Watching for file changes with StatReloader
+INFO 2026-03-15 12:17:39,472 log 13264 6068 "GET /admin/security/loginhistory/ HTTP/1.1" 200 23871
+INFO 2026-03-15 12:17:39,734 log 13264 6068 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:17:50,259 log 13264 6068 "GET /admin/account/user/ HTTP/1.1" 200 19014
+INFO 2026-03-15 12:17:50,357 log 13264 6068 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:17:57,341 log 13264 6068 "POST /admin/account/user/ HTTP/1.1" 200 18177
+INFO 2026-03-15 12:17:57,383 log 13264 6068 "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+INFO 2026-03-15 12:17:58,392 log 13264 6068 "POST /admin/account/user/ HTTP/1.1" 302 0
+INFO 2026-03-15 12:17:58,475 log 13264 6068 "GET /admin/account/user/ HTTP/1.1" 200 18779
+INFO 2026-03-15 12:17:58,563 log 13264 6068 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-03-15 12:17:58,586 log 13264 6068 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+WARNING 2026-03-15 12:18:08,731 log 13264 7876 Bad Request: /login/
+WARNING 2026-03-15 12:18:08,732 log 13264 7876 "POST /login/ HTTP/1.1" 400 193
+INFO 2026-03-15 12:18:38,451 autoreload 13264 6256 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:18:40,447 autoreload 9656 6720 Watching for file changes with StatReloader
+INFO 2026-03-15 12:18:57,041 autoreload 9656 6720 E:\chatting_app\chat\chat\urls.py changed, reloading.
+INFO 2026-03-15 12:18:58,869 autoreload 11804 6688 Watching for file changes with StatReloader
+WARNING 2026-03-15 12:20:23,016 log 11804 11840 Bad Request: /login/
+WARNING 2026-03-15 12:20:23,017 log 11804 11840 "POST /login/ HTTP/1.1" 400 193
+WARNING 2026-03-15 12:20:45,724 log 11804 11840 Bad Request: /register
+WARNING 2026-03-15 12:20:45,726 log 11804 11840 "POST /register HTTP/1.1" 400 208
+INFO 2026-03-15 12:21:18,614 log 11804 11840 "POST /register HTTP/1.1" 201 221

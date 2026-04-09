@@ -1,0 +1,6 @@
+INFO 2026-03-02 17:06:51,575 service 17624 17352 Security event: USER_REGISTERED - User:  - IP: 127.0.0.1
+INFO 2026-03-05 11:41:41,773 service 17664 4248 Security event: USER_REGISTERED - User:  - IP: 127.0.0.1
+INFO 2026-03-05 20:31:36,022 service 17032 20444 Security event: LOGIN_SUCCESS - User:  - IP: 127.0.0.1
+INFO 2026-03-06 20:18:54,668 service 21716 1772 Security event: LOGIN_SUCCESS - User:  - IP: 127.0.0.1
+INFO 2026-03-15 12:07:15,323 service 5232 5252 Security event: LOGIN_SUCCESS - User:  - IP: 127.0.0.1
+INFO 2026-03-15 12:21:18,613 service 11804 11840 Security event: USER_REGISTERED - User:  - IP: 127.0.0.1
