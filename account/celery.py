@@ -2,10 +2,9 @@ import os
 from celery import Celery
 
 # Set the default Django settings module for the 'celery' program.
-# আপনার প্রোজেক্টের নাম 'chat' হওয়ায় 'project.settings' না লিখে 'chat.settings' লিখতে হবে
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'chat.settings')
 
-app = Celery('chat')  # 'project' না লিখে 'chat' লিখুন
+app = Celery('chat')  
 
 # Using a string here means the worker doesn't have to serialize
 # the configuration object to child processes.
