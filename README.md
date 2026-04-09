@@ -69,3 +69,43 @@ A production-ready, feature-rich authentication system built with Django REST Fr
 | Sentry | Latest | Error monitoring |
 
 ## 🏗 System Architecture
+
+### 1. High-Level Architecture Diagram
+
+```mermaid
+graph TB
+    subgraph "🌐 Client Layer"
+        A[🖥️ Web Browser<br/>React/Vue/Angular<br/>Port: 3000]
+        B[📱 Mobile App<br/>iOS/Android<br/>React Native]
+        C[💻 Desktop App<br/>Electron<br/>Port: 5173]
+    end
+
+    subgraph "🚪 Load Balancer & Proxy"
+        D[⚖️ Nginx Load Balancer<br/>SSL Termination<br/>Rate Limiting<br/>Port: 80, 443]
+    end
+
+    subgraph "🎯 Application Layer - Django"
+        E[🔧 API Server 1<br/>Gunicorn<br/>Port: 8000]
+        F[🔧 API Server 2<br/>Gunicorn<br/>Port: 8001]
+        G[🔧 API Server 3<br/>Gunicorn<br/>Port: 8002]
+    end
+
+    subgraph "⏰ Background Processing"
+        H[📧 Celery Worker<br/>Email Tasks<br/>Queue: email]
+        I[📅 Celery Beat<br/>Scheduled Tasks<br/>Periodic Jobs]
+        J[🔄 Redis Broker<br/>Message Queue<br/>Port: 6379]
+    end
+
+    subgraph "💾 Data Layer"
+        K[🐘 PostgreSQL Primary<br/>Write Operations<br/>Port: 5432]
+        L[🐘 PostgreSQL Replica<br/>Read Operations<br/>Port: 5433]
+        M[⚡ Redis Cache<br/>Sessions & Tokens<br/>Rate Limits<br/>Port: 6379]
+    end
+
+    subgraph "🔌 External Services"
+        N[📧 SMTP Server<br/>Gmail/SendGrid<br/>Port: 587]
+        O[📊 Sentry<br/>Error Tracking<br/>API]
+        P[☁️ AWS S3<br/>Media Storage<br/>Port: 443]
+    end
+
+    
